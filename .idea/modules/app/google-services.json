@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438500769134",
+    "firebase_url": "https://sailor-33444.firebaseio.com",
+    "project_id": "sailor-33444",
+    "storage_bucket": "sailor-33444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438500769134:android:33e2a36ade0a7332ac157f",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438500769134-41ce3rhbd03bvlvmjhmftm3fdj588pv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sample",
+            "certificate_hash": "5dd44d26405989b295f02ea57f641e64c2e03205"
+          }
+        },
+        {
+          "client_id": "438500769134-393i0pij6mgpieo5vdbja8q941e8rjhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmD2oQskpfJYkFxMYWttQBuDhu9nQI9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438500769134-393i0pij6mgpieo5vdbja8q941e8rjhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

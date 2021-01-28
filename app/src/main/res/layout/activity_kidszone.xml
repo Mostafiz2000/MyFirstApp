@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentRight="true"
+    android:background="@drawable/best"
+    tools:context=".Kidszone">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="334dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="40dp"
+        android:text="A"
+        android:textAlignment="center"
+        android:textColor="#7E9698"
+        android:textSize="200sp" />
+
+    <com.example.sample.PaintView2
+        android:id="@+id/paintview"
+        android:layout_width="247dp"
+        android:layout_height="180dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="324dp"
+        android:layout_marginRight="90dp" />
+
+    <Button
+        android:id="@+id/bclr"
+        android:layout_width="68dp"
+        android:layout_height="58dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="302dp"
+        android:layout_marginTop="385dp"
+        android:layout_marginRight="41dp"
+        android:background="@drawable/again2" />
+
+    <Button
+        android:id="@+id/bclr2"
+        android:layout_width="75dp"
+        android:layout_height="52dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="253dp"
+        android:layout_marginRight="47dp"
+        android:background="@drawable/next" />
+
+    <Button
+        android:id="@+id/bclr3"
+        android:layout_width="72dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="58dp"
+        android:layout_marginTop="252dp"
+        android:layout_marginRight="281dp"
+        android:background="@drawable/kids1" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="280dp"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="308dp"
+        android:layout_marginRight="76dp"
+        app:srcCompat="@drawable/boardframe" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="303dp"
+        android:layout_height="198dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginRight="49dp"
+        app:srcCompat="@drawable/board" />
+
+
+</RelativeLayout>
